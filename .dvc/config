@@ -1,0 +1,4 @@
+['remote "nas"']
+url = /mnt/grain5-dataset/Temp_Dataset/z_exp/dvc
+[core]
+remote = nas
